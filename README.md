@@ -1,8 +1,6 @@
 # jQuery Calculator
 
-## File
-
-* [`jquery-calculator-starter`](Unsolved/jquery-calculator.html)
+ Activity for codding boot camp 2020 Carleton university Javascript
 
 ## Instructions
 
